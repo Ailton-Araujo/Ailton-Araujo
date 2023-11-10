@@ -1,6 +1,6 @@
 <hr>
 <h1>Hi I'm Aiton Araujo</h1>
-<h2>I'm a Full Stack Developer, a Lego Collector and a TBT gamer</h2>
+<h2>I'm a Full Stack Developer and a Lego Collector</h2>
 
 - 🌱 I’m currently learning **GO** and **NestJS**
 - 👩‍💻 Most of my projects are avaiable on <a href="https://github.com//Ailton-Araujo">Github</a>.
