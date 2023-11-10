@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **GO** and **NestJS**
 - 👩‍💻 Most of my projects are avaiable on <a href="https://github.com//Ailton-Araujo">Github</a>.
 - 📫 How to reach me: ailton.correia.araujo@gmail.com
-<hr>
+</hr>
 
 <hr/>
 <h2>My Contact Info</h2>
