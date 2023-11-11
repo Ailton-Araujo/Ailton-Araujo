@@ -123,11 +123,16 @@
 </table>
 </hr>
 
-
-
+<details>
+  <summary><h2>Stats</h2></summary>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailton-Araujo&layout=compact&theme=transparent)](https://github.com/Ailton-Araujo/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ailton-Araujo&show_icons=true&theme=transparent)
   
+</details>
+
+
+
 
 
 
